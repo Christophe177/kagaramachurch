@@ -10,6 +10,9 @@ export const db = mysql.createPool({
   user: process.env.DB_USER || 'root',
   password: process.env.DB_PASSWORD || '',
   database: process.env.DB_NAME || 'church_cms',
+  ssl: {
+    rejectUnauthorized: false,
+  },
   waitForConnections: true,
   connectionLimit: 10,
   maxIdle: 10, // max idle connections, the default value is the same as `connectionLimit`
