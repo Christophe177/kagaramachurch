@@ -160,14 +160,14 @@ export default function Contact() {
                         <div className="contact-info-icon"><Phone size={22} /></div>
                         <div>
                             <h4>Phone</h4>
-                            <p>+250782745343</p>
+                            <p>0781737380</p>
                         </div>
                     </div>
                     <div className="contact-info-item">
                         <div className="contact-info-icon"><Mail size={22} /></div>
                         <div>
                             <h4>Email</h4>
-                            <p>munezeroberthra@gmail.com</p>
+                            <p>eearkagarama@gmail.com</p>
                         </div>
                     </div>
                     <div className="contact-info-item">

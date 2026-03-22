@@ -160,8 +160,7 @@ export default function PublicLayout() {
             ))}
           </div>
           <div>
-            <h4>Contact</h4>
-            <p>Kagarama, Kigali<br />Rwanda<br />munezeroberthra@gmail.com</p>
+            <p>Kagarama, Kigali<br />Rwanda<br />eearkagarama@gmail.com</p>
           </div>
         </div>
         <div className="pub-footer-bottom">
