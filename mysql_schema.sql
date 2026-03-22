@@ -4,8 +4,8 @@
 -- ============================================
 
 -- Create the database if it doesn't exist
-CREATE DATABASE IF NOT EXISTS church_cms;
-USE church_cms;
+-- CREATE DATABASE IF NOT EXISTS church_cms;
+-- USE church_cms;
 
 -- 1. Users table (Replaces Supabase Auth & Profiles)
 DROP TABLE IF EXISTS users;
